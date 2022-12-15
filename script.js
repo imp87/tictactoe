@@ -1,3 +1,5 @@
+//lets start
+
 let fields = [];
 
 let currentShape = "cross";
